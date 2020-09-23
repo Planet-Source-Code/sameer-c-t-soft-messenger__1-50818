@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------
+- Soft Messenger (Professional Edition) - Data File
+- This file stores the Users List for Soft Messenger
+- You have the option of populating users from this list or the network
+- Enter User Name and Computer Name separated by a colon (User : Computer)
+- Any line starting with an hyphen(-) is considered as a comment
+- A blank line will mark the end of file
+- The name of this file must be SoftMessenger.txt 
+- This file should reside in the same folder of SoftMessenger.exe
+--------------------------------------------------------------------------
+Bijus:Soft103
+Sameer:Soft80
+Manu Raj:Soft79
+Gazna:Soft15
+Geetha:Soft142
+Giby:Soft120
+Yashin:Soft77
+Sudhish:Soft118
+Denis:Soft71
+Dominic:Soft113
+Hobby:Soft70
+Soumya:HQ1
+Manju:Soft100
+SusanT.I:Soft56
+Retty:Soft7
+--------------------------------------------------------------------------
+- End of File
+--------------------------------------------------------------------------
